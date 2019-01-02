@@ -4,7 +4,7 @@ Script que utiliza a inteligência artificial para realizar desenhos aleatórios
 
 ## Atenção
 
-Os desenhos são feitos por escolhas da própria máquima, todos os desenhos realizados são totalmente aleatórios e qualquer semelhança com rostos, simbolós ou imagem é mera concidência. Por sua conta em risco!
+Os desenhos são feitos por escolhas da própria máquina, todos os desenhos realizados são totalmente aleatórios e qualquer semelhança com rostos, símbolos ou imagem é mera coincidência. Por sua conta em risco!
 
 ## Autor
 
