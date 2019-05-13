@@ -9,7 +9,7 @@ Desenho iniciado no dia 13/05/2019, ele irá desenhar 24hs por dia, 7 dias por s
 
 ## Atenção
 
-Os desenhos são feitos por escolhas da própria máquina, todos os desenhos realizados são totalmente aleatórios e qualquer semelhança com rostos, símbolos ou imagem é mera coincidência. Por sua conta em risco!
+Os desenhos são feitos por escolhas da própria máquina, todos os desenhos realizados são totalmente aleatórios e qualquer semelhança com rostos, símbolos ou imagem é mera coincidência.
 
 ## Autor
 
