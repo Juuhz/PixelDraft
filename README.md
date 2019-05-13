@@ -1,6 +1,6 @@
 # PixelDraft
 
-Script que utiliza a inteligência artificial para realizar desenhos aleatórios em pixel.\
+Script que utiliza a inteligência artificial para realizar desenhos aleatórios em pixel.
 
 [http://pixeldraft.reinaldoamorim.com.br](http://pixeldraft.reinaldoamorim.com.br)
 
