@@ -1,0 +1,65 @@
+/* RESET */
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+}
+
+/* BODY */
+body{
+    overflow: auto;
+    letter-spacing: 2px;
+    font-family: 'Arial';
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+/* LIST */
+ul,li{
+	list-style: none;
+}
+
+/* SELECIONAR */
+::selection {
+    background-color: #838D9A !important;
+    color: #293144 !important;
+}
+
+block{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: blue;
+}
+
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    background: #ececec;
+    color: #222;
+    text-align: center;
+    z-index: 2;
+    font-size: 12px;
+    padding: 5px;
+}
+
+.pins block:last-child{
+    background: url( '/static/images/ai.png' ) no-repeat center center;
+    background-size: cover;
+    border: 1px solid #000;
+}
+
+@media (max-width: 500px){
+    .footer{
+        font-size: 10px;
+    }    
+}
