@@ -9,6 +9,13 @@ class Home extends Component {
 
   // Atualiza desenho a cada segundo
   componentDidMount(){
+
+    window.scrollTo({
+        top: document.querySelector('.pins block:last-child').offsetTop - 200,
+        left: document.querySelector('.pins block:last-child').offsetleft - 100,
+        behavior: "smooth"
+    });
+
     setInterval( () => {
       this.getAi();
     }, 1000);
